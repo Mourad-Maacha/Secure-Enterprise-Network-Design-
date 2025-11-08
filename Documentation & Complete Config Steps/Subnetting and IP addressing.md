@@ -88,9 +88,3 @@ Use the GUI to quickly assign static IP addresses for the test PCs.
 <img width="550" alt="Screenshot 2025-11-07 102129" src="https://github.com/user-attachments/assets/f4c1c844-cc85-4f3a-acc3-beba105eaf73" />
 <img width="550" alt="Screenshot 2025-11-07 102111" src="https://github.com/user-attachments/assets/1880d242-1b4f-48c6-a2b5-e30637db4bd4" />
 
-## ✅ Step 6 Completed
-
-Subnetting and IP Addressing are now fully configured.
-You can now proceed to the next step:
-👉 [[7. HSRP and Inter-VLAN Routing on the L3 Switches + IP DHCP Helper Addresses]]
-
