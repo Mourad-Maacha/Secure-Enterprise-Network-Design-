@@ -145,6 +145,3 @@ Complete the **beautification phase** by:
 <img width="1071" height="647" alt="Screenshot 2025-11-07 085422" src="https://github.com/user-attachments/assets/fcb009ea-4edb-41de-b303-78b28a250aac" />
 
 ---
-
-> ✅ **End of Step 1: Network Design and Beautification**  
-Proceed to Step 2: [Basic Settings to All Devices + SSH + Standard ACL for SSH](2_Basic_Settings_SSH_and_ACL.md)
