@@ -1,6 +1,6 @@
 # ⚙️Complete Configuration Steps
 
-1. [Network Design](link)
+1. [Network Design](https://github.com/Mourad-Maacha/Secure-Enterprise-Network-Design-/blob/main/Documentation%20&%20Complete%20Config%20Steps/Network-Design.md)
 2. [Basic Settings + SSH + Standard ACL for SSH](link)
 3. [VLAN assignment + all access and trunk ports on Layer2/3 switches](link)
 4. [STP Portfast and BPDUguard configs on all access ports](link)
