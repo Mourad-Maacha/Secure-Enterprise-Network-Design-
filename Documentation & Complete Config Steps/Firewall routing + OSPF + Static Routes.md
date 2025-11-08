@@ -54,9 +54,3 @@ end
 write memory
 ```
 
-## ✅ 5. **Step Completion**
-- Both firewalls now participate in OSPF area 0.
-- Default and backup routes provide redundancy between ISPs.
-- DMZ, internal, and ISP networks are all advertised.
-
-Next → 13. Firewall Inspection Policy Configuration
