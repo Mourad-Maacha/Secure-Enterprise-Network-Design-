@@ -93,11 +93,3 @@ show standby brief
 🖼️ Example Output:
 
 <img width="550" alt="Screenshot 2025-11-07 101601" src="https://github.com/user-attachments/assets/548da449-ae5e-4d81-9d63-5dd36ff64a73" />
-
-## ✅ Step 7 Completed
-
-At this point, HSRP redundancy and inter-VLAN routing are operational.
-All VLANs can now communicate and dynamically request DHCP addresses from the central server.
-
-Next step:
-👉 [[8. Static IP Address Assignment — DMZ Server Farm and Server Room Devices]]
