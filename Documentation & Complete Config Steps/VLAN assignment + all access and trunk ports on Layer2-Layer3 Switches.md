@@ -192,13 +192,3 @@ no switchport access vlan 70
 do wr
 ```
 > Apply this to all departmental switches that host VoIP phones.
-
-## ✅ Step Completion
-
-You’ve now:
-- Created and named all VLANs (10, 20, 50, 70, 90, 199).
-- Configured trunk and access ports across L2 and L3 switches.
-- Prepared the topology for STP optimization and loop prevention.
-
-> Proceed to Step 4 → STP PortFast and BPDUguard Configurations on All Access Ports
-> In the next step, we’ll strengthen Layer 2 stability and prevent accidental topology loops.
