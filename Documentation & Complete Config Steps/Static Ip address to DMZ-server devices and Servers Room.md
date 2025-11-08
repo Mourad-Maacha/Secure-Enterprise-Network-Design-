@@ -65,6 +65,3 @@ Each DMZ device should be assigned its IP manually in the GUI:
 <img width="550" alt="Screenshot 2025-11-07 103500" src="https://github.com/user-attachments/assets/22e75343-4d70-4c31-9845-e666e048f839" />
 
 ---
-
-## ✅ Once all servers have been configured with their static IP addresses, you’re ready to proceed to:  
- **[Step 9 — DHCP Server Device Configurations]()**
