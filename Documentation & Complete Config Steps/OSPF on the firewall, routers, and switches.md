@@ -88,6 +88,3 @@ do wr
 ```
 > After configuring OSPF on all devices, re-cluster the Cloud in Packet Tracer to simplify your topology view.
 
-## ✅ OSPF is now fully configured across your network infrastructure.
-You can now proceed to:
-➡️ Step 11 — Firewall Interface Security Zones and Levels
