@@ -81,13 +81,3 @@ Do wr
 
 - **Firewalls**: Configuration will be completed at the end of the project for better context.
 - **ISP Routers / Cloud**: No configuration at this stage (only OSPF testing later).
-
-## ✅ 5. **Step Completion**
-
-You’ve now:
-- Applied basic security and management settings on all switches.
-- Secured remote access with SSH.
-- Restricted management access using a standard ACL.
-
-> Continue to Step 3 → VLAN Assignment, Access & Trunk Port Configuration on L2 & L3 Switches
-> In the next step, we’ll create VLANs, assign access ports, and configure trunk links across the network.
