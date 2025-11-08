@@ -144,6 +144,3 @@ Here’s what the full topology looks like when all are connected:
 > Turn on **DHCP** on all wireless devices — they should each receive IP addresses.
 
 ---
-
-✅ **This concludes the Wireless Configuration.**  
-We’re now ready to move on to **[Step 16 — VoIP Configurations](./16_VoIP_Configs.md)**.
