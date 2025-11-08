@@ -30,8 +30,3 @@ exit
 ```
 > Repeat these steps on both Layer 3 switches.
 
-## ✅ Step 5 Completed
-EtherChannel (LACP) is now configured between the Layer 3 switches, allowing aggregated high-speed and redundant connections.
-
-Proceed to the next step:
-👉 [[6. Subnetting and IP Addressing]]
