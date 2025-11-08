@@ -83,7 +83,6 @@ Finally, test connectivity to devices located in the DMZ.
 
 <img width="550" alt="Pasted image 20251107134426" src="https://github.com/user-attachments/assets/83d7e66b-74f3-4274-a33f-1813fddb86d1" />
 
-## ✅ 5. **Step Completion**
 ✅ Summary
 | Test         | Description                                                 | Result   |
 | ------------ | ----------------------------------------------------------- | -------- |
@@ -91,4 +90,3 @@ Finally, test connectivity to devices located in the DMZ.
 | Ping Algeria | Initial failure due to IP conflict, fixed via router config | ✅ Passed |
 | Ping DMZ     | Successful communication                                    | ✅ Passed |
 
-Next Step → 15. Wireless Network Configurations
