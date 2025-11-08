@@ -57,6 +57,3 @@ Copy these settings for the WLAN DHCP pool:
 
 ---
 
-## ✅ Once the DHCP server has been fully configured and all pools are active, the setup is complete.  
-You’re now ready to move on to:  
-➡️ **[Step 10 — OSPF on the Firewall, Routers, and Switches](10.%20OSPF%20on%20the%20Firewall,%20Routers,%20and%20Switches.md)**
