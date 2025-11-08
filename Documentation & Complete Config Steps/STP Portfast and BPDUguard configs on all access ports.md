@@ -50,8 +50,3 @@ spanning-tree bpduguard enable
 do wr
 ```
 
-## ✅ Step 4 Completed
-All access switches are now configured with STP Portfast and BPDUguard, ensuring faster port activation and improved protection from accidental network loops.
-
-Proceed to the next step:
-👉 [[5. EtherChannel]]
