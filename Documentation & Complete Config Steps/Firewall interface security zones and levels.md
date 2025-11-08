@@ -134,6 +134,3 @@ write memory
 >  Traffic cannot flow from lower security levels to higher security levels by default.
 >  The firewall will block such traffic unless explicitly allowed by ACLs or inspection rules (to be configured later).
 
-## ✅ Firewalls are now configured with proper zones, IP addresses, and security levels.
-You can now proceed to:
-➡️ Step 12 — Firewall Routing: OSPF + Static Routes
