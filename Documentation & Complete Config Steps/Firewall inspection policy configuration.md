@@ -148,10 +148,3 @@ end
 write memory
 ```
 
-## ✅ 5. **Step Completion**
-- NAT configured for inside, WLAN, and DMZ networks.
-- ACLs allow only ping, web (HTTP), and DNS traffic.
-- DMZ can reach the internet; inside networks remain isolated.
-- Configuration applied and saved to both firewalls.
-
-Next → 14. Wireless Network Configurations
